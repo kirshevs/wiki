@@ -1,0 +1,1 @@
+/etc/alytics/wiki.cfg.php
