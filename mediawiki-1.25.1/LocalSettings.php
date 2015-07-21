@@ -143,3 +143,4 @@ $wgSMTP = array(
 );
 
 $wgGroupPermissions['*']['createaccount'] = false;
+$wgGroupPermissions['*']['edit'] = false;
