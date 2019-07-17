@@ -146,4 +146,4 @@ $wgGroupPermissions['*']['createaccount'] = false;
 $wgGroupPermissions['*']['edit'] = false;
 
 # Adding Description Extention
-wfLoadExtension( 'MetaDescriptionTag' );
+wfLoadExtension( 'mediawiki-extensions-MetaDescriptionTag' );
